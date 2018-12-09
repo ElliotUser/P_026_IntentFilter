@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P_026_IntentFilter</string>
+    <string name="Time">Time</string>
+    <string name="Date">Date</string>
+    <string name="Medium_Text">Medium Text</string>
+    <string name="Medium_Date">Medium Date</string>
+</resources>
